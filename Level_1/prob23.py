@@ -1,0 +1,3 @@
+a=int(input())
+b=a-5*(a // 10 + a % 10 % 2)
+print(b)
